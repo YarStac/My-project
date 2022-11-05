@@ -1,0 +1,16 @@
+//крикерс
+using System.Collections;
+using System.Collections.Generetic;
+using UnittyEngine;
+
+public class Crickers:MonoBehaviour
+{
+	void Start()
+	{
+		
+	}
+	void Update()
+	{
+		print(Crickers);	
+	}
+}
